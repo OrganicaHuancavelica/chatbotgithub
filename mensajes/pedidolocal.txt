@@ -1,0 +1,8 @@
+Genial
+
+Guau! lo que elegiste se ve delicioso.
+Deseas pagar en:
+1. Yape
+2. Efectivo
+
+Escriba solo un número por favor.

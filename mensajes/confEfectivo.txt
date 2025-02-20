@@ -1,0 +1,5 @@
+Confirme si su pedido
+es con Efectivo.
+
+1. Si
+2. No

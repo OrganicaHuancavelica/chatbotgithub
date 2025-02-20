@@ -1,0 +1,7 @@
+Comentame:
+1. Comer aquí.
+2. Para llevar.
+
+Escriba solo un número por favor.
+
+Si se confunde de opción escriba *Pedido* para volver a estas opciones.

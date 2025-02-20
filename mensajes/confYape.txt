@@ -1,0 +1,6 @@
+Confirme si su pedido
+es con Yape.
+
+1. Si
+2. No
+

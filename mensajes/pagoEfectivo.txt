@@ -1,0 +1,6 @@
+Excelente, voy a preparar 
+tu pedido, te avisare 
+cuando este listo.
+Podrás cancelar en caja.
+
+Si se cunfundió den opción escriba *Pago* para volver a las opciones de pago.
